@@ -1,0 +1,98 @@
+
+h1 {
+    background:black;
+    color: white;
+    font: "a";
+}
+.nav-enlace{
+    display: inline-block;
+    background: black;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: #292C2D;
+}
+nav{
+    background: #235FC8 ;
+    padding: 10px;
+}
+.columna{
+    background: #ff3399;
+    color: seashell;
+    padding: 20px;
+    width: 25%;
+}
+.padre{
+    display: flex;
+    margin: 10px;
+}
+.formulario{
+    background-color: #235FC8;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-left: 250px;
+}
+.formulario2{
+    background-color: #235FC8;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 15px;
+}
+
+.texto{
+    background-color: black;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.fondo{
+    background-color: #235FC8;
+}
+.linea{
+    margin-left: 20px ;
+}
+img{
+    width: 100px; 
+    height: 100px;
+  }
+  button{
+    display: inline-block;
+      background: black;
+      color: white;
+      padding: 10px 30px;
+      text-decoration: none;
+  }
+button:hover{
+    background: #292C2D;
+}
+
+  .alumno{
+    background: rosybrown ;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+  .columna1{
+    background: #ff3399;
+    color: seashell;
+}
+.padre1{
+    display: flex;
+
+}
+.botonesA{
+    padding-left: 5px;
+}
+.botonesB{
+    padding-left: 66px;
+
+}
+.calificaciones{
+    background-color: rosybrown;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+  }
+ 
